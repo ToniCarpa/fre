@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">FraizrTCP</string>
+    <string name="anim">¡¡ VAMOS !! \n Abre tu nevera a ver...</string>
+    <!-- User -->
+    <string name="signin">Sign In</string>
+    <string name="google">Continua con Google</string>
+    <string name="googleIn">Bienvenido a google Sig In</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="editar">Editar</string>
+    <string name="perfil">Perfil</string>
+
+    <string name="ok">¡¡ OK !!</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="opok">Operación \n realizada con \n EXITO</string>
+    <string name="error">!! ERROR ¡¡ \n Algo salió Mal</string>
+    <string name="txtlogOut">¿Estas seguro? </string>
+
+    <!-- parametros -->
+    <string name="passowrd">Password</string>
+    <string name="name">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="email">Email</string>
+    <string name="edad">Edad</string>
+    <string name="telf">Telefono</string>
+    <string name="pais">País</string>
+    <string name="face">FaceBook</string>
+    <string name="insta">Instagram</string>
+    <string name="twit">Twitter</string>
+    <!-- Core -->
+    <string name="Recetas">Recetas</string>
+    <string name="MisRecetas">Mis Recetas</string>
+    <string name="crea">Crea</string>
+    <string name="busca">Busca</string>
+    <string name="inventa">inventa</string>
+    <string name="ia">Beta IA</string>
+    <string name="elimina">Elimina</string>
+
+    <!-- Ingredientes -->
+    <string name="ingredientes">Ingredientes</string>
+    <string name="animales">Animales</string>
+    <string name="vegetales">Vegetales</string>
+    <string name="otros">Otros</string>
+
+    <!-- Paises -->
+    <string-array name="paises">
+        <item>Catalunya</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>Portugal</item>
+        <item>UK</item>
+        <item>Belgica</item>
+        <item>America</item>
+        <item>Asia</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Ingredientes -->
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840869460255",
+    "project_id": "fraizrtcp",
+    "storage_bucket": "fraizrtcp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840869460255:android:3ef426a268cdee63a1182a",
+        "android_client_info": {
+          "package_name": "com.example.fraizrtcp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840869460255-clghp391ku4e59rjvl984tfvho7k8101.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fraizrtcp",
+            "certificate_hash": "17e72f35494503f081372833f572b2592052f3e0"
+          }
+        },
+        {
+          "client_id": "840869460255-m7396kjhs9g9s5paaq0vbvtne8r5b46b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwHynl06q8rBRak1ZqnHR6Hp2zWSnGI60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840869460255-m7396kjhs9g9s5paaq0vbvtne8r5b46b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

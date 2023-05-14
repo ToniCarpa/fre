@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FraizrTCP" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/orange_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
